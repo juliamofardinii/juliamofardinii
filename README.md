@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sempre em busca de  transformar desafios em soluções criativas e eficientes.<br><br>👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas;<br><br>💼 Estagiária de Desenvolvimento front-end;<br>🎓 Formada em Administração de Empresas;<br>❤️ Apaixonada por descobrir coisas novas;<br>📺No meu tempo livre gosto de assistir Sitcoms.</p>
+<p align="left">Sempre em busca de  transformar desafios em soluções criativas e eficientes.<br><br>👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas;<br>💼 Estagiária de Desenvolvimento front-end;<br>🎓 Formada em Administração de Empresas;<br>❤️ Apaixonada por descobrir coisas novas;<br>📺No meu tempo livre gosto de assistir Sitcoms.</p>
 
 ###
 
