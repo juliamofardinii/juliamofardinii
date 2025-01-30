@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sempre em busca de  transformar desafios em soluções criativas e eficientes.<br><br>👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas;<br>💼 Estagiária de Desenvolvimento Front-End;<br>🎓 Formada em Administração de Empresas;<br>❤️ Apaixonada por descobrir coisas novas;<br>📖No meu tempo livre gosto de ler livros.</p>
+<p align="left">Sempre em busca de transformar desafios em soluções criativas e eficientes.<br><br>👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas;<br>💼 Estagiária de Desenvolvimento Front-End;<br>🎓 Formada em Administração de Empresas;<br>❤️ Apaixonada por descobrir coisas novas;<br>📖 No meu tempo livre gosto de ler livros.</p>
 
 ###
 
@@ -18,6 +18,12 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -60,9 +66,7 @@
   <a href="mailto:juliamofardini@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://wa.me/+5515981538018"" target="_blank">
+  <a href="https://wa.me/+5515981538018" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
