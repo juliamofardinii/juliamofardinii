@@ -6,8 +6,6 @@
 
 <h1 align="left">👩🏻‍💻 Júlia Mofardini</h1>
 
-###
-
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
 ###
