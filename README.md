@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left">Sempre em busca de transformar desafios em soluções criativas e eficientes.</p>
-
-###
-
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
 ###
